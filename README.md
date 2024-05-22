@@ -7,9 +7,12 @@ MacOS Versions labeled 3.0 and above are UNITY clients... Theyre not newer clien
 
 For windows and Android... All 3.0+ clients are basically equivalent to the v2 MacOS versions, but on unity.
 
-Latest / Stable for each platform:
+Best / Latest / Stable for each platform:
 
 windows: 3.13.1
+
 android: 3.13.1
+
 macos: 2.11.1
+
 ios: 2.11.0.1
