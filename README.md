@@ -16,3 +16,5 @@ android: 3.13.1
 macos: 2.11.1
 
 ios: 2.11.0.1
+
+* NOTE - ios-2.11.0.1 has two versions, 32bit and 64bit. iPhone 5/5c and iPad 4 or older will need the 32bit client.
